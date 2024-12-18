@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "ewxc5ywoov0bkqhkdkqkauis",
+      "Texte": "Soyez le changement que vous voulez voir dans le monde.",
+      "Auteur": "Mahatma Gandhi",
+      "createdAt": "2024-12-17T13:59:48.654Z",
+      "updatedAt": "2024-12-17T13:59:48.654Z",
+      "publishedAt": "2024-12-17T13:59:48.664Z"
+    },
+    {
+      "id": 4,
+      "documentId": "bloybfkn5n91h5rv05jroe8e",
+      "Texte": "Le bonheur dépend de nous.",
+      "Auteur": "Aristote",
+      "createdAt": "2024-12-17T14:00:27.610Z",
+      "updatedAt": "2024-12-17T14:00:27.610Z",
+      "publishedAt": "2024-12-17T14:00:27.618Z"
+    },
+    {
+      "id": 6,
+      "documentId": "vd8g8cefc70vqc5ha0ja84an",
+      "Texte": "Rien n'est permanent, sauf le changement.",
+      "Auteur": "Héraclite",
+      "createdAt": "2024-12-17T14:00:45.590Z",
+      "updatedAt": "2024-12-17T14:00:45.590Z",
+      "publishedAt": "2024-12-17T14:00:45.597Z"
+    },
+    {
+      "id": 8,
+      "documentId": "hrjel34jk53ujzl83cbwa5t7",
+      "Texte": "L'essentiel est invisible pour les yeux.",
+      "Auteur": "Antoine de Saint-Exupéry",
+      "createdAt": "2024-12-17T14:01:05.735Z",
+      "updatedAt": "2024-12-17T14:01:05.735Z",
+      "publishedAt": "2024-12-17T14:01:05.743Z"
+    },
+    {
+      "id": 10,
+      "documentId": "wxj0405a011c6d7fkwfd1rhc",
+      "Texte": "La seule chose que je sais, c'est que je ne sais rien.",
+      "Auteur": "Socrate",
+      "createdAt": "2024-12-17T14:01:24.699Z",
+      "updatedAt": "2024-12-17T14:01:24.699Z",
+      "publishedAt": "2024-12-17T14:01:24.709Z"
+    },
+    {
+      "id": 12,
+      "documentId": "gfp4lgk5vpicn0v3sakzf5fj",
+      "Texte": "Le succès, c'est d'aller d'échec en échec sans perdre son enthousiasme.",
+      "Auteur": "Winston Churchill",
+      "createdAt": "2024-12-17T14:01:39.246Z",
+      "updatedAt": "2024-12-17T14:01:39.246Z",
+      "publishedAt": "2024-12-17T14:01:39.254Z"
+    },
+    {
+      "id": 14,
+      "documentId": "jxeq2yb504gtw1xcn1rq88hc",
+      "Texte": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+      "Auteur": "Albert Einstein",
+      "createdAt": "2024-12-17T14:01:55.461Z",
+      "updatedAt": "2024-12-17T14:01:55.461Z",
+      "publishedAt": "2024-12-17T14:01:55.467Z"
+    },
+    {
+      "id": 16,
+      "documentId": "q13r6n7c2ftxfm42vxvzunt0",
+      "Texte": "Je pense, donc je suis.",
+      "Auteur": "René Descartes",
+      "createdAt": "2024-12-17T14:02:29.629Z",
+      "updatedAt": "2024-12-17T14:02:29.629Z",
+      "publishedAt": "2024-12-17T14:02:29.635Z"
+    },
+    {
+      "id": 18,
+      "documentId": "bg10fp57j99vm1dfi74gw6wp",
+      "Texte": "Les seules limites de nos réalisations de demain, ce sont nos doutes d'aujourd'hui.",
+      "Auteur": "Franklin D. Roosevelt",
+      "createdAt": "2024-12-17T14:02:45.420Z",
+      "updatedAt": "2024-12-17T14:02:45.420Z",
+      "publishedAt": "2024-12-17T14:02:45.426Z"
+    },
+    {
+      "id": 20,
+      "documentId": "q2d424lshcun9uo5cygxdqof",
+      "Texte": "Le meilleur moyen de prédire l'avenir est de le créer.",
+      "Auteur": "Peter Drucker",
+      "createdAt": "2024-12-17T14:02:58.966Z",
+      "updatedAt": "2024-12-17T14:02:58.966Z",
+      "publishedAt": "2024-12-17T14:02:58.972Z"
+    },
+    {
+      "id": 22,
+      "documentId": "tgu4bvy4wnnd37gunrnddh4a",
+      "Texte": "La liberté est le droit de faire tout ce que les lois permettent.",
+      "Auteur": "Montesquieu",
+      "createdAt": "2024-12-17T14:03:12.868Z",
+      "updatedAt": "2024-12-17T14:03:12.868Z",
+      "publishedAt": "2024-12-17T14:03:12.873Z"
+    },
+    {
+      "id": 24,
+      "documentId": "dwbd41e50czuypkpdyy0k1v8",
+      "Texte": "Un voyage de mille lieues commence toujours par un premier pas.",
+      "Auteur": "Lao Tseu",
+      "createdAt": "2024-12-17T14:03:32.829Z",
+      "updatedAt": "2024-12-17T14:03:32.829Z",
+      "publishedAt": "2024-12-17T14:03:32.834Z"
+    },
+    {
+      "id": 26,
+      "documentId": "l923xbl3g16jyud3h9j6mw07",
+      "Texte": "La connaissance s'acquiert par l'expérience, tout le reste n'est que de l'information.",
+      "Auteur": "Albert Einstein",
+      "createdAt": "2024-12-17T14:04:02.442Z",
+      "updatedAt": "2024-12-17T14:04:02.442Z",
+      "publishedAt": "2024-12-17T14:04:02.450Z"
+    },
+    {
+      "id": 28,
+      "documentId": "v6pyaaron3gyt72agbbjlwp8",
+      "Texte": "Il n'y a qu'une façon d'échouer, c'est d'abandonner avant d'avoir réussi.",
+      "Auteur": "Georges Clemenceau",
+      "createdAt": "2024-12-17T14:04:18.809Z",
+      "updatedAt": "2024-12-17T14:04:18.809Z",
+      "publishedAt": "2024-12-17T14:04:18.815Z"
+    },
+    {
+      "id": 30,
+      "documentId": "lagqcgcelpcuxtx3oa6yqxs5",
+      "Texte": "Dans un grain de sable voir un monde, dans chaque fleur des champs, le Paradis.",
+      "Auteur": "William Blake",
+      "createdAt": "2024-12-17T14:04:33.136Z",
+      "updatedAt": "2024-12-17T14:04:33.136Z",
+      "publishedAt": "2024-12-17T14:04:33.142Z"
+    },
+    {
+      "id": 32,
+      "documentId": "a034svvzz7hxmmx2n5qijrxi",
+      "Texte": "La grandeur d'un métier est peut-être avant tout d'unir les hommes.",
+      "Auteur": "Antoine de Saint-Exupéry",
+      "createdAt": "2024-12-17T14:04:51.115Z",
+      "updatedAt": "2024-12-17T14:04:51.115Z",
+      "publishedAt": "2024-12-17T14:04:51.122Z"
+    },
+    {
+      "id": 34,
+      "documentId": "zwp8hdvsnnwjk2uk6dkg777r",
+      "Texte": "Faites de votre vie un rêve, et d'un rêve, une réalité.",
+      "Auteur": "Antoine de Saint-Exupéry",
+      "createdAt": "2024-12-17T14:05:06.254Z",
+      "updatedAt": "2024-12-17T14:05:06.254Z",
+      "publishedAt": "2024-12-17T14:05:06.263Z"
+    },
+    {
+      "id": 36,
+      "documentId": "o2yunovc4s4btkptxdswkhfz",
+      "Texte": "On ne voit bien qu'avec le cœur.",
+      "Auteur": "Antoine de Saint-Exupéry",
+      "createdAt": "2024-12-17T14:05:20.642Z",
+      "updatedAt": "2024-12-17T14:05:20.642Z",
+      "publishedAt": "2024-12-17T14:05:20.647Z"
+    },
+    {
+      "id": 38,
+      "documentId": "it10mua9sgb9tkq7utlx5yux",
+      "Texte": "Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin.",
+      "Auteur": "Voltaire",
+      "createdAt": "2024-12-17T14:05:35.071Z",
+      "updatedAt": "2024-12-17T14:05:35.071Z",
+      "publishedAt": "2024-12-17T14:05:35.079Z"
+    },
+    {
+      "id": 40,
+      "documentId": "l2udhts505ixqp7vt8tdh4yw",
+      "Texte": "Ils ne savaient pas que c'était impossible, alors ils l'ont fait.",
+      "Auteur": "Mark Twain",
+      "createdAt": "2024-12-17T14:05:51.227Z",
+      "updatedAt": "2024-12-17T14:05:51.227Z",
+      "publishedAt": "2024-12-17T14:05:51.234Z"
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 20
+    }
+  }
+}
